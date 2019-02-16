@@ -1,2 +1,2 @@
 # ioc-shallalist
-The shallalist sources for https://github.com/TrustNetworks/indicators-of-compromise
+The shallalist sources for https://github.com/tnw-open-source/indicators-of-compromise
